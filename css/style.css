@@ -837,7 +837,7 @@ body {
     .services__about-boxes{
         display: flex;
         flex-direction: column;
-        margin-left: 30px;
+        margin-left: 40px;
     }
     .services__about-text{
         font-size: 16px;
